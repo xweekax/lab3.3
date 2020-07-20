@@ -1,0 +1,13 @@
+C:\devbuild4\lab3.3Data_structures\obj\Debug\netcoreapp3.1\lab3.3Data_structures.csprojAssemblyReference.cache
+C:\devbuild4\lab3.3Data_structures\obj\Debug\netcoreapp3.1\lab3.3Data_structures.AssemblyInfoInputs.cache
+C:\devbuild4\lab3.3Data_structures\obj\Debug\netcoreapp3.1\lab3.3Data_structures.AssemblyInfo.cs
+C:\devbuild4\lab3.3Data_structures\obj\Debug\netcoreapp3.1\lab3.3Data_structures.csproj.CoreCompileInputs.cache
+C:\devbuild4\lab3.3Data_structures\bin\Debug\netcoreapp3.1\lab3.3Data_structures.exe
+C:\devbuild4\lab3.3Data_structures\bin\Debug\netcoreapp3.1\lab3.3Data_structures.deps.json
+C:\devbuild4\lab3.3Data_structures\bin\Debug\netcoreapp3.1\lab3.3Data_structures.runtimeconfig.json
+C:\devbuild4\lab3.3Data_structures\bin\Debug\netcoreapp3.1\lab3.3Data_structures.runtimeconfig.dev.json
+C:\devbuild4\lab3.3Data_structures\bin\Debug\netcoreapp3.1\lab3.3Data_structures.dll
+C:\devbuild4\lab3.3Data_structures\bin\Debug\netcoreapp3.1\lab3.3Data_structures.pdb
+C:\devbuild4\lab3.3Data_structures\obj\Debug\netcoreapp3.1\lab3.3Data_structures.dll
+C:\devbuild4\lab3.3Data_structures\obj\Debug\netcoreapp3.1\lab3.3Data_structures.pdb
+C:\devbuild4\lab3.3Data_structures\obj\Debug\netcoreapp3.1\lab3.3Data_structures.genruntimeconfig.cache
